@@ -1,0 +1,3 @@
+INSERT INTO `vendor_auth` (`id`, `vendor_id`, `is_admin`, `first_name`, `last_name`, `email`, `dial_code`, `phone`, `password`, `created_at`, `last_updated`, `hash_string`, `email_verified`, `status`, `admin_verified`, `is_deleted`, `verified_by`, `registration_source`, `last_login_date`) VALUES 
+
+(NULL, '1431', '0', 'Testing', 'Testing', '1testing_email@email.com', '91', '8210900937', '', '2022-10-30 21:54:04', '2022-10-30 21:54:04', '', '0', '1', '0', '0', '0', '', NULL),
